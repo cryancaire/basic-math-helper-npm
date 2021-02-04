@@ -1,0 +1,13 @@
+{
+  "name": "basic-math-helper",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "math_helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
